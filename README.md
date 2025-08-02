@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure PDF to ServiceNow Pipeline
 
 ## Overview
@@ -24,3 +25,7 @@ az storage blob upload --account-name <account> --container-name agreement-pdfs 
 - `push_to_servicenow.py`: Call ServiceNow REST API
 - `main_pipeline.py`: Orchestrates entire flow
 - `Jenkinsfile`: Jenkins CI/CD pipeline
+=======
+# Azure_PDF_to_ServiceNow_Pipeline
+Small POC
+>>>>>>> d108b212797067ab0b7b1c54993e5d9d26a213e7
