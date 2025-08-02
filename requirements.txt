@@ -1,0 +1,4 @@
+fitz
+openai
+requests
+azure-storage-blob
